@@ -27,24 +27,60 @@
 
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Dikshya%20Runuwal&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Backend%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+Backend+%26+Microservices+Engineer+%E2%98%95;React+%7C+Node.js+%7C+Spring+Boot;Building+scalable+systems%2C+one+service+at+a+time.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+
+### 👋 Hey there! I'm Dikshya
+
+🎓 **B.Tech CSE** student at **Lovely Professional University**, Punjab  
+💼 Undergoing **Java Backend & Microservices training at Capgemini**  
+🌱 Currently deep-diving into **Spring Boot, Microservices & System Design**  
+⚡ I love building things that are fast, scalable, and actually useful  
+🏆 **Smart India Hackathon 2023** participant  
+📍 Punjab, India  
+
+<br clear="right"/>
+
+---
+
 ## 🚀 About Me
 
 ```java
 public class Dikshya {
 
-    String name = "Dikshya Runuwal";
-    String role = "Aspiring Software Engineer";
+    String name        = "Dikshya Runuwal";
+    String role        = "Aspiring Software Engineer";
+    String university  = "Lovely Professional University";
+    String training    = "Capgemini — Java Backend & Microservices";
 
-    String[] skills = {
-        "Spring Boot",
-        "Microservices",
-        "React",
-        "Docker",
-        "DSA"
+    String[] currentlyLearning = {
+        "Microservices Architecture",
+        "Spring Boot & Spring Cloud",
+        "Docker & Containerization",
+        "System Design",
+        "DSA on LeetCode"
     };
 
-    String goal = "Build scalable systems that make real-world impact";
+    String goal = "Build scalable systems that make a real-world impact";
+
+    void greet() {
+        System.out.println("Let's build something great together! 🚀");
+    }
 }
+
 🛠️ Tech Stack
 👨‍💻 Languages
 <p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
