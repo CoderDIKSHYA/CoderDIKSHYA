@@ -72,3 +72,48 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge"/>
 </p>
+
+## 💼 Experience
+
+- 🏢 **Capgemini Training** — Java Backend & Microservices  
+- 🏆 **Smart India Hackathon 2023** — Built PeakSense
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech | Link |
+|--------|------------|------|------|
+| 🏋️ Health Tracker | Fitness tracking app | React, Node | [View](#) |
+| 🍽️ KhanaLover | Food website | HTML, JS | [View](#) |
+| ⚡ PeakSense | Analytics dashboard | React, Node | [View](#) |
+| 🔧 Microservices | Backend system | Spring Boot | [View](#) |
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CoderDIKSHYA&show_icons=true&theme=tokyonight"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderDIKSHYA&theme=tokyonight"/>
+
+</div>
+
+## 🎓 Education
+
+🎓 B.Tech CSE — Lovely Professional University  
+📚 12th — 82.4%  
+📖 10th — 85.6%  
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/dikshyarunuwal/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/CoderDIKSHYA)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer"/>
+
+</div>
