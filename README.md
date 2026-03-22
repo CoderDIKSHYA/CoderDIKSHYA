@@ -29,7 +29,6 @@
 
 ## 🚀 About Me
 
-```java
 public class Dikshya {
 
     String name = "Dikshya Runuwal";
@@ -51,7 +50,7 @@ public class Dikshya {
         System.out.println("Let's build something great together! 🚀");
     }
 }
-```
+
 
 ## 🛠️ Tech Stack
 
