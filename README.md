@@ -27,44 +27,15 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Dikshya%20Runuwal&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Backend%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+Backend+%26+Microservices+Engineer+%E2%98%95;React+%7C+Node.js+%7C+Spring+Boot;Building+scalable+systems%2C+one+service+at+a+time.)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
-
-### 👋 Hey there! I'm Dikshya
-
-🎓 **B.Tech CSE** student at **Lovely Professional University**, Punjab  
-💼 Undergoing **Java Backend & Microservices training at Capgemini**  
-🌱 Currently deep-diving into **Spring Boot, Microservices & System Design**  
-⚡ I love building things that are fast, scalable, and actually useful  
-🏆 **Smart India Hackathon 2023** participant  
-📍 Punjab, India  
-
-<br clear="right"/>
-
----
-
 ## 🚀 About Me
 
 ```java
 public class Dikshya {
 
-    String name        = "Dikshya Runuwal";
-    String role        = "Aspiring Software Engineer";
-    String university  = "Lovely Professional University";
-    String training    = "Capgemini — Java Backend & Microservices";
+    String name = "Dikshya Runuwal";
+    String role = "Aspiring Software Engineer";
+    String university = "Lovely Professional University";
+    String training = "Capgemini — Java Backend & Microservices";
 
     String[] currentlyLearning = {
         "Microservices Architecture",
@@ -78,8 +49,6 @@ public class Dikshya {
 
     void greet() {
         System.out.println("Let's build something great together! 🚀");
-    }
-}
 
 🛠️ Tech Stack
 👨‍💻 Languages
@@ -96,16 +65,11 @@ public class Dikshya {
 🏢 Capgemini Training — Java Backend & Microservices
 🏆 Smart India Hackathon 2023 — Built PeakSense
 🔥 Featured Projects
-<div align="center">
 Project	Description	Stack	Links
 🏋️ Health Tracker	Fitness tracking app	React, Node	Code
-
 🍽️ KhanaLover	Food website	HTML, JS	Code
-
 ⚡ PeakSense	Analytics dashboard	React, Node	Code
-
 🔧 Microservices	Backend system	Spring Boot	Code
-</div>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CoderDIKSHYA&show_icons=true&theme=tokyonight"/> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderDIKSHYA&theme=tokyonight"/> </div>
 🎓 Education
@@ -117,8 +81,11 @@ Project	Description	Stack	Links
 📫 Connect With Me
 <div align="center">
 
+LinkedIn
 
-
+GitHub
 
 </div>
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer"/> </div> ```
+    }
+}
