@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Dikshya%20Runuwal&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Backend%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
