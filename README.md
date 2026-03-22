@@ -27,31 +27,6 @@
 
 ---
 
-## 🚀 About Me
-
-public class Dikshya {
-
-    String name = "Dikshya Runuwal";
-    String role = "Aspiring Software Engineer";
-    String university = "Lovely Professional University";
-    String training = "Capgemini — Java Backend & Microservices";
-
-    String[] currentlyLearning = {
-        "Microservices Architecture",
-        "Spring Boot & Spring Cloud",
-        "Docker & Containerization",
-        "System Design",
-        "DSA on LeetCode"
-    };
-
-    String goal = "Build scalable systems that make a real-world impact";
-
-    void greet() {
-        System.out.println("Let's build something great together! 🚀");
-    }
-}
-
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
